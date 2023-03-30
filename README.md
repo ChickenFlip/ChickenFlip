@@ -1,31 +1,5 @@
 - 👋 Hi, I’m @ChickenFlip
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ChickenFlip/ChickenFlip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-how do i create files ? how do i code ?
+- 👀 I’m interested in ***Hacks***
+- 🌱 I’m currently learning ***Javascript***
+- 💞️ I’m looking to collaborate on ***No one because I'm simply just, better***
+- 📫 How to reach me ***DISCORD: Private, DM me***
